@@ -2,9 +2,8 @@
 - 👀 I’m interested in front end developing
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on websites
-- 📫 How to reach me ... just text me here >> cursedmouth48@gmail.com
+- 📫 How to reach me ... just text me here >> kshetran246@gmail.com
 - 😄 Pronouns: ... >> he/him
-- ⚡ Fun fact: ... >> I am all silent and calm until you get to know me.
 
 <!---
 myth-thicc/myth-thicc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
